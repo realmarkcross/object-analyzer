@@ -1,0 +1,5 @@
+[Desktop Entry]
+Version = 1.0
+Name = AWS Cloud Resource Analyzer
+Exec = object-analyzer/main.py
+Type = Application

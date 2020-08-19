@@ -1,0 +1,1 @@
+__all__ = ['awsresource', 'main', 's3resource']
